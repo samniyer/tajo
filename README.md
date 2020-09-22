@@ -52,4 +52,7 @@ For example, to subscribe to dev, send an email from your desired subscription a
 
 and follow the instructions from there.
 
-<tr></tr>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
